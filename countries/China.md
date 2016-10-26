@@ -1,14 +1,14 @@
 ##China
-## population
+## population: huge
 
 
-## capital
+## capital: Beijing
 
  
-## official language
+## official language: Chinese
 
 
-## interesting trivia
+## interesting trivia: They speak Chinese :D
 
 
 
